@@ -1,7 +1,7 @@
-My first Leetcode Question  
-1 January 2026
+// My first Leetcode Question  
+// 1 January 2026
 
-1. Two Sum
+// 1. Two Sum
 
 class Solution {
 public:
@@ -19,6 +19,6 @@ public:
     }
 };
 
-i dont know how to express this feelings its just result is about to come and i am very stressed out like i know i did well this time did some blunders but i am proud of myself and incoming semesters will
+/*i dont know how to express this feelings its just result is about to come and i am very stressed out like i know i did well this time did some blunders but i am proud of myself and incoming semesters will
 do much better
-i hope you can take the results 
+i hope you can take the results*/ 
