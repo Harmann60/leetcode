@@ -1,0 +1,15 @@
+January 2 2026
+2235. Add Two Integers
+//Easiest problem i can find on leetcode
+
+Add Two Integers:
+
+class Solution {
+public:
+    int sum(int num1, int num2) {
+        return num1 + num2;
+    }
+};
+
+
+good to know leetcode have too 
