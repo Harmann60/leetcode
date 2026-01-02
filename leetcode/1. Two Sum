@@ -1,1 +1,24 @@
-<h1> My First <h1>
+My first Leetcode Question  
+1 January 2026
+
+1. Two Sum
+
+class Solution {
+public:
+    vector<int> twoSum(vector<int> &nums, int target) {
+        unordered_map<int, int> hash;
+        for (int i = 0; i < nums.size(); ++i) {
+            int complement = target - nums[i];
+            if (hash.find(complement) != hash.end()) {
+                return {hash[complement], i};
+            }
+            hash[nums[i]] = i;
+        }
+        // Return an empty vector if no solution is found
+        return {};
+    }
+};
+
+i dont know how to express this feelings its just result is about to come and i am very stressed out like i know i did well this time did some blunders but i am proud of myself and incoming semesters will
+do much better
+i hope you can take the results 
