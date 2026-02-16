@@ -5,8 +5,8 @@
 *"Every algorithm mastered is another step up the mountain. The climb is steep, the bugs are rocky, but the view from an 'Accepted' solution makes it all worth it." ⛰️💻*
 
 <br>
-
-'''text
+<pre>
+         
          Son♡
    _________________
   /                 \
@@ -25,6 +25,7 @@
 |                     |
 |_____________________|
 
+</pre>
 </div>
 
 ---
