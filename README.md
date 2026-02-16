@@ -2,7 +2,7 @@
 
 # 💻 My LeetCode Journal & Personal Diary 📖
 
-*Where algorithms meet daily life. Keeping track of my coding grind, problem-solving progress, and daily experiences.*
+*"Every algorithm mastered is another step up the mountain. The climb is steep, the bugs are rocky, but the view from an 'Accepted' solution makes it all worth it."⛰️💻.*
 
 <br>
 
@@ -36,8 +36,9 @@ This is more than just a place to dump code. It's my personal diary documenting 
 
 **Here is what you will find:**
 * **LeetCode Solutions:** My approaches, optimized code, and time/space complexity notes.
-* ** Daily Entries:** What I learned, where I struggled, and general life updates.
-* ** Progress Tracking:** Watching myself grow from brute-force beginner to optimized problem solver.
+* **Daily Entries:** What I learned, where I struggled, and general life updates.
+* **Progress Tracking:** Watching myself grow from brute-force beginner to optimized problem solver.
+
 ---
 
 <div align="center">
